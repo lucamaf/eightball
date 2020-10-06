@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to EightBall
 
-You can use the [editor on GitHub](https://github.com/lucamaf/eightball/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to a collection of random API of dubious utility!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first API to be releases is the 8-ball API, which helps you in all those cases where you don't know which decision to make and you trust fate and destiny.
 
-### Markdown
+## General APIs Information
+The 8-ball API is a RESTful service which provides a method for accessing a randomized decision, which can be a guided decision if you specific a specific parameter (and want to influence destiny!).
+All representations are encoded as JSON objects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Service Endpoints
+The 8-ball API’s base endpoint is http://eight-ball-appdev-microservices.apps.my-cluster.ocp4.openshift.es/
 
-```markdown
-Syntax highlighted code block
+### API Spec
+You will find the API Specification and Entity definition here:
+[JSON OPENAPI SPEC](http://eight-ball-appdev-microservices.apps.my-cluster.ocp4.openshift.es/openapi)
 
-# Header 1
-## Header 2
-### Header 3
+You can also explore the API interactively using swagger-ui, which can be found under /swagger-ui
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Made by
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucamaf/eightball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![View Luca Ferrari's profile on LinkedIn](https://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png)](https://www.linkedin.com/in/lucamferrari/)

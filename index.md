@@ -9,7 +9,8 @@ The 8-ball API is a RESTful service which provides a method for accessing a rand
 All representations are encoded as JSON objects.
 
 ### Service Endpoints
-The 8-ball API’s base endpoint is http://eight-ball-appdev-microservices.apps.my-cluster.ocp4.openshift.es/
+The 8-ball API’s base endpoint is [here]
+(http://eight-ball-appdev-microservices.apps.my-cluster.ocp4.openshift.es/)
 
 ### API Spec
 You will find the API Specification and Entity definition here:
